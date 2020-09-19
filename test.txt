@@ -1,0 +1,13 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 9C02-FCC0
+
+ Directory of D:\Vinod\Java Project
+
+09/19/2020  11:31 PM    <DIR>          .
+09/19/2020  11:31 PM    <DIR>          ..
+09/19/2020  09:46 PM               456 manoj.txt
+09/19/2020  11:31 PM                 0 test.txt
+09/19/2020  09:50 PM               440 vinodjava.class
+09/19/2020  09:04 PM               159 vinodjava.java
+               4 File(s)          1,055 bytes
+               2 Dir(s)  66,044,952,576 bytes free
